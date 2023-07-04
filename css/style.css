@@ -10935,8 +10935,8 @@ Section Title
 .clients-carousel .slide-item img {
   display: inline-block;
   max-width: 100%;
-  width: auto;
-  height: auto;
+  width: 75px;
+  height: 75px;
   opacity: 0.3;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
